@@ -1,0 +1,7 @@
+{
+    "arguments": [
+        "/Applications/Xcode13rc.app/Contents/Developer/Toolchains/XcodeDefault.xctoolchain/usr/bin/clang -x objective-c -o MyClass.m.o -isysroot /Applications/Xcode13rc.app/Contents/Developer/Platforms/iPhoneSimulator.platform/Developer/SDKs/iPhoneSimulator.sdk -c MyClass.m"
+    ],
+    "directory": "/Users/sneuberger/clangd_repro",
+    "file": "/Users/sneuberger/clangd_repro/MyClass.m"
+}
